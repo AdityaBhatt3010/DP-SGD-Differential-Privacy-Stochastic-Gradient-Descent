@@ -1,4 +1,4 @@
-# 🔐 Differential Privacy in Deep Learning
+# 🔐 Differential Privacy - Stochastic Gradient Descent
 
 ## DP-SGD vs Standard SGD on MNIST (PyTorch + Opacus)
 
